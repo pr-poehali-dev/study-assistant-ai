@@ -20,7 +20,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full z-50 glass border-b border-white/10">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold gradient-primary bg-clip-text text-transparent">
-            EduAI Platform
+            Correx
           </h1>
           <div className="hidden md:flex gap-6">
             <a href="#home" className="hover:text-primary transition-colors">Главная</a>
@@ -350,13 +350,13 @@ const Index = () => {
       <footer className="py-12 px-4 border-t border-white/10">
         <div className="container mx-auto text-center">
           <h2 className="text-2xl font-bold gradient-primary bg-clip-text text-transparent mb-4">
-            EduAI Platform
+            Correx
           </h2>
           <p className="text-muted-foreground mb-4">
             Персональный ИИ-помощник для эффективного обучения студентов
           </p>
           <p className="text-sm text-muted-foreground">
-            © 2025 EduAI Platform. Проект в разработке.
+            © 2025 Correx. Проект в разработке.
           </p>
         </div>
       </footer>
